@@ -1,11 +1,8 @@
-# band_name_generator
+Welcome to our interactive program!
 
-#1. Create a greeting for your program.
+To get started, we'd love to learn a bit about you.
 
-#2. Ask the user for the city that they grew up in.
+#1. What city did you grow up in?
+#2. What's the name of your beloved pet?
 
-#3. Ask the user for the name of a pet.
-
-#4. Combine the name of their city and pet and show them their band name.
-
-#5. Make sure the input cursor shows on a new line:
+With your responses, we'll create a unique band name just for you! Please make sure to input your answers on separate lines.
